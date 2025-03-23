@@ -6,5 +6,10 @@
       <excludeFolder url="file://$MODULE_DIR$/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="flatpickr" level="application" />
+    <orderEntry type="library" name="@babel/standalone" level="application" />
+    <orderEntry type="library" name="axios" level="application" />
+    <orderEntry type="library" name="react" level="application" />
+    <orderEntry type="library" name="react-dom" level="application" />
   </component>
 </module>
