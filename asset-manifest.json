@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/serverless-frontend/static/css/main.d050c327.css",
+    "main.js": "/serverless-frontend/static/js/main.ae138bf0.js",
+    "static/js/453.665f0601.chunk.js": "/serverless-frontend/static/js/453.665f0601.chunk.js",
+    "index.html": "/serverless-frontend/index.html",
+    "main.d050c327.css.map": "/serverless-frontend/static/css/main.d050c327.css.map",
+    "main.ae138bf0.js.map": "/serverless-frontend/static/js/main.ae138bf0.js.map",
+    "453.665f0601.chunk.js.map": "/serverless-frontend/static/js/453.665f0601.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d050c327.css",
+    "static/js/main.ae138bf0.js"
+  ]
+}
